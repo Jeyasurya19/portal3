@@ -1,0 +1,19 @@
+*{
+    color:white;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+#backgroundImage{
+    height: 850px;
+    width: 1500px;
+}
+.form{
+    position: absolute;
+    top: 7%;
+    right:30%;
+    border: 2px solid rgba(0, 0, 0, 0.279);
+    padding: 60px;
+    border-radius: 10px;
+    background-color:rgba(0, 0, 0, 0.279) ;
+}
